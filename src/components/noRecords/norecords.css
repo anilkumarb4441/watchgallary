@@ -1,0 +1,15 @@
+.notFound_sec{
+    width: 40%;
+    margin:5% auto 0 auto;
+    text-align: center;
+}
+.notFound_sec>img{
+    width: 50%;
+}
+.notFound_sec>h3{
+    color: rgb(117, 24, 9);
+}
+.notFound_sec>p{
+    font-size: 16px;
+
+}
